@@ -12,7 +12,7 @@ The objective of this project is to detect a bicyle travelling around a car. The
 
 ![alt text][image1]
 
-* [Here's a video of the performance of MPC algorithm in the simulator][video1]
+* [Here's a video of the performance of EKF algorithm in the simulator][video1]
 
 
 #### Note: This Project is part of the Udacity Self Driving Car nanodegree program. Instructions related to environment 
